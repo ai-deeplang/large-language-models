@@ -18,4 +18,4 @@ In addition, while there are many ways to write a good review, we provide two ex
 2. [https://openreview.net/forum?id=de11dbHzAMF&noteId=ZLlS_WgGyHH](https://openreview.net/forum?id=de11dbHzAMF&noteId=ZLlS_WgGyHH) 
 
 Reviews will be graded pass/fail and should be submitted by **11:00 AM PST on [Gradescope](https://www.gradescope.com/courses/342794)** on the day of the lecture. 
-For weeks when you are responsible for [paper discussions](https://stanford-cs324.github.io/winter2022/paper-discussions/), you will want to take additional time in thinking about questions/discussion items.  
+For weeks when you are responsible for [paper discussions](https://ai-deeplang.github.io/large-language-models/paper-discussions/), you will want to take additional time in thinking about questions/discussion items.  
